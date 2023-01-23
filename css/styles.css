@@ -392,7 +392,6 @@ img{
 
 .footer{
     display: flex;
-    max-width: 1440px;
     margin: 0 auto;
     background: #2E2F42;
     padding-top: 100px;
